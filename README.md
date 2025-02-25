@@ -1,5 +1,5 @@
-### Hello, I'm Jason! 👋
+## Hello, I'm Jason! 👋
 
-- 👨‍💻 Year 4 Computer Science major studying at the National University of Singapore
-- 🔎 Passionate about AI and software engineering
-- 📫 Feel free to reach out to me at [jason.qiu@u.nus.edu](mailto:jason.qiu@u.nus.edu) or [LinkedIn](https://www.linkedin.com/in/jasonqiu212/)!
+- 👨‍💻 Year 4 Computer Science student @ National University of Singapore
+- 🔎 Passionate about blending robust software engineering with thoughtful design
+- 📫 Learn more about me at my personal website, [jasonqiu.dev](https://jasonqiu.dev), or connect with me on [LinkedIn](https://www.linkedin.com/in/jasonqiu212/)!
